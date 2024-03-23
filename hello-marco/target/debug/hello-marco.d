@@ -1,0 +1,1 @@
+/workspaces/github-actions-rust-example/hello-marco/target/debug/hello-marco: /workspaces/github-actions-rust-example/hello-marco/src/lib.rs /workspaces/github-actions-rust-example/hello-marco/src/main.rs
